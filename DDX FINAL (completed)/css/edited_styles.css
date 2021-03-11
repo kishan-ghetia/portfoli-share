@@ -1,0 +1,16 @@
+.navbar-edited{
+    padding-left:0px !important;
+    padding-right: 0px !important;
+}
+
+.nav-con-fluid-edited{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.nav-bar-stick-top{
+top:0px;
+}
+.decrease-size{
+    height: 50px !important;
+}
